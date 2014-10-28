@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Fitte</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="security_token">$2a$12$coAXEDKD1I7e8a4arJEZYOckCD.brXsmHyToJKHcSPWEipb9pUBDi</string>
+    
+    <!-- FACEBOOK ID -->
+    <string name="app_id">636795466441772</string>
+    
+    <!-- Traducciones -->
+    <string name="info_bienvenida">Fitte es un juego para disfrutar con amigos en el que tu nivel lo define el tiempo que caminas en el día, demuestra que eres el más activo de todos y que mereces el #1</string>
+	<string name="sincronizar">Sincronizar</string>
+	<string name="ir_al_ranking"><u>Ir al ranking de amigos</u></string>
+	<string name="reiniciar_puntos"><u>Reiniciar puntos</u></string>
+	<string name="progreso_huevo">Progreso del huevo</string>
+	<string name="selecciona_huevo">Selecciona tu preferido</string>
+	
+</resources>
